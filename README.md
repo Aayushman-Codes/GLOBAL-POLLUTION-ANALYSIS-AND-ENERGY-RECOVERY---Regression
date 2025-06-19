@@ -19,6 +19,6 @@ This model was built on Kaggle Notebook since the code might not work on Jupyter
 
 Type of Model: Regression (Linear & Logical)
 
-Objective: The goal is to analyze global pollution data and develop strategies for pollution reduction and converting pollutants into energy. The dataset will be used for both data preprocessing and building regression models to predict energy recovery from pollution levels.
+Objective: The goal of this model is to analyze global pollution data and develop strategies for pollution reduction and converting pollutants into energy. The dataset will be used for both data preprocessing and building regression models to predict energy recovery from pollution levels.
 
 Tech Stack: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
